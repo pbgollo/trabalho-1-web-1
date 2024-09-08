@@ -6,13 +6,15 @@
 
 <img src="assets/print.png" alt="Exemplo imagem">
 
-> Este projeto é um aplicativo de lista de tarefas desenvolvido utilizando o framework Flutter e a linguagem Dart. Os usuários têm a capacidade de criar e gerenciar várias listas de afazeres de forma personalizada, permitindo uma organização eficaz de suas tarefas diárias.
+> O projeto envolve a criação de um site de notícias inspirado na CNN, com detalhamento das matérias e um formulário de inscrição, como parte da disciplina de Web 1.
+
 ## 🔧 Tecnologias Utilizadas
 
-No projeto, a principal tecnologia adotada foi o Flutter, utilizando a linguagem de programação Dart.
+No desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🤝 Colaboradores
 
